@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://young-qiang.github.io</id>
+    <title>Notice</title>
+    <updated>2022-12-22T02:02:09.347Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://young-qiang.github.io"/>
+    <link rel="self" href="https://young-qiang.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://young-qiang.github.io/images/avatar.png</logo>
+    <icon>https://young-qiang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Notice</rights>
+    <entry>
+        <title type="html"><![CDATA[这是 一篇测试文章]]></title>
+        <id>https://young-qiang.github.io/post/zhe-shi-yi-pian-ce-shi-wen-zhang/</id>
+        <link href="https://young-qiang.github.io/post/zhe-shi-yi-pian-ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-12-15T08:05:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这是 一篇测试文章这是 一篇测试文章这是 一篇测试文章这是 一篇测试文章这是 一篇测试文章这是 一篇测试文章这是 一篇测试文章</p>
+]]></content>
+    </entry>
+</feed>
